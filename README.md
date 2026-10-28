@@ -99,3 +99,7 @@ Developed as an Android application mini-project.
 ## 📄 License
 
 This project is intended for educational purposes.
+<img width="289" height="586" alt="image" src="https://github.com/user-attachments/assets/6729a7a0-6d9e-46d1-81e1-675976d757a9" />
+<img width="280" height="581" alt="Screenshot 2026-10-28 102131" src="https://github.com/user-attachments/assets/5769a51d-7995-429a-bad0-9e4dfc169f22" />
+
+
